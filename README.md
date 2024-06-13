@@ -6,3 +6,5 @@ Pressing the button once changes the cell for reading/writing the key, the numbe
 Only DS1990 and RW1990 are suitable for operation.
 
 The program uses a built-in 9.8 megahertz oscillator with a prescaler of 8.
+
+![schematic](Schematic.png)
